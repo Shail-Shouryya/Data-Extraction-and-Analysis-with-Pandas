@@ -21,6 +21,7 @@ Since the overall percentage for the gender breakdown didn't change much regardl
 ![unique_gender df](Images/uniquePlayersGender.jpg "Gender Breakdown after dropping duplicate player entries")
 
 --------
+## Analysis
 
 * Of the 780 active players, the vast majority are male (~84%). There also exists, a smaller, but notable proportion of female players (~14%).
 * Our peak age demographic falls between 20-24 (46.79%) with secondary groups falling between 15-19 (17.44%) and 25-29 (12.95%). 
