@@ -1,6 +1,6 @@
-# Heroes-of-Pymolli
+# Data-Extraction-and-Analysis-with-Pandas
 
-## Tools Used
+# Tools Used
 * Pandas 
     * for reading csv file
     * storing information in dataframes
@@ -9,9 +9,9 @@
     * checking outputs for calculations
     
     
-## Overview
-### Heroes Of Pymoli Observations
-### Direct comparison of player gender breakdown before and after dropping duplicate entries:
+# Overview
+## Heroes Of Pymoli Observations
+## Direct comparison of player gender breakdown before and after dropping duplicate entries:
 As we can see, dropping duplicates from the original dataframe reduced the number of male players by 168 (from 652 down theo 484), reduced the number of female players by 32 (from 113 down to 81), and reduced the number of undisclosed genders by 4 (down from 15 to 11).
 
 With such a small difference in total overall numbers, the gender breakdown changed minimally, from 83.59% to 84.02% for males, from 14.49% to 14.06% for females, and from 1.92% to 1.91% for undisclosed/other.
